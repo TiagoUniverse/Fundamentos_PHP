@@ -8,6 +8,7 @@
 
         echo "A soma de $A + $B é $SOMA";
 
+       // print("Testeeeee " + $A);
 ?>
     
   
