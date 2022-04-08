@@ -1,2 +1,5 @@
 <?php
-echo 'Hello world!';
+    #Criando uma variável
+    $frase = "Hello world!";
+
+    echo $frase;
